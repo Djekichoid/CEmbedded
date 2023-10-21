@@ -3,4 +3,5 @@ project(CEmbedded C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(CEmbedded main.c)
+add_executable(CEmbedded main.c
+)
